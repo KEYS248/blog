@@ -1,0 +1,16 @@
+name: KEYS248's Home on the Web
+description: Computational Biologist
+url: https://www.datumplane.net
+baseurl: /blog
+permalink: /:title/
+version: v1.2.0
+
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
